@@ -1,4 +1,4 @@
-### Liliana Weimer
+# Liliana Weimer
 
 - 😄 Pronouns: she/her
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liliana-weimer/)
