@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianaweimer)](https://github.com/lilianaweimer)
 -->
 
 ## My Skill Set  
@@ -38,3 +37,5 @@ Here are some ideas to get you started:
 <br/>  
 
 [![Liliana's github stats](https://github-readme-stats.vercel.app/api?username=lilianaweimer)](https://github.com/lilianaweimer/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianaweimer)](https://github.com/lilianaweimer)
