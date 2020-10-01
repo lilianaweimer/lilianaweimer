@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianaweimer)](https://github.com/lilianaweimer)
 -->
 
 ## My Skill Set
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianaweimer)](https://github.com/lilianaweimer)
 <br />
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
