@@ -1,8 +1,9 @@
 # Liliana Weimer
 
 - 😄 Pronouns: she/her
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liliana-weimer/)
 - 🌱 I’m currently learning: JavaScipt, React, HTML/CSS
+
+I am a recent front-end graduate from the Turing School of Software & Design. I am excited to start my career as a software engineer! To declutter my GitHub profile, I'm keeping my projects from my time at the Turing School of Software & Design in [this organization](https://github.com/turing-projects) and my personal projects meant for learning & experimentation in [this organization](https://github.com/practice-and-learning).
 
 <!--
 **lilianaweimer/lilianaweimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
